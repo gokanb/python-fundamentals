@@ -41,6 +41,11 @@ Small programs that apply the fundamentals (in `projects/`):
 
 Practice work in `exercises/` (problem-solving drills and a host-info assignment).
 
+## Extras
+
+- `data_visualization/` — plotting with matplotlib and pandas (line, bar, and subplot examples; reads a bundled `report.csv`).
+- `modules_and_packages/` — a tiny demo of importing your own module.
+
 ## Getting started
 
 ```bash

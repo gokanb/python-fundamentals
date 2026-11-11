@@ -1,2 +1,5 @@
+matplotlib>=3.5
+numpy>=1.23
+pandas>=1.5
 psutil>=5.9
 notebook>=7.0
